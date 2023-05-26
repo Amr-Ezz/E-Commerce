@@ -12,9 +12,9 @@
 - 📫 How to reach me **amrelqahwagi@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/amr-elqahwagi-b79075266/](https://www.linkedin.com/in/amr-elqahwagi-b79075266/)
-<img href="https://drive.google.com/file/d/1uSQ-4Myranh10Z_-3hh6pyXjzfEGmzCv/view?usp=share_link" />
-<img href="https://drive.google.com/file/d/1LyOG3jM6-K43dSDi_qTOaudcSZnHtSbV/view?usp=share_link" />
-<img href="https://drive.google.com/file/d/1eySvrIiErf7tp4LM59cQLwYvV-Wh54Vr/view?usp=share_link" />
+<img src="https://drive.google.com/file/d/1uSQ-4Myranh10Z_-3hh6pyXjzfEGmzCv/view?usp=share_link" />
+<img src="https://drive.google.com/file/d/1LyOG3jM6-K43dSDi_qTOaudcSZnHtSbV/view?usp=share_link" />
+<img src="https://drive.google.com/file/d/1eySvrIiErf7tp4LM59cQLwYvV-Wh54Vr/view?usp=share_link" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
