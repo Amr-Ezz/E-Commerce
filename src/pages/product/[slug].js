@@ -9,10 +9,12 @@ import {
 } from "react-icons/ai";
 import { useStateContext } from "../../../context/StateContext";
 const ProductDetails = ({ product, products }) => {
-  if (!product || !products) return <div>Error loading product data</div>
-  const { image, name, details, price } = product;
   const [index, setIndex] = useState(0);
   const { decQty, inQty, qty, onAdd, setShowCart } = useStateContext();
+    const { image, name, details, price } = product;
+
+    if (!product || !products) return <div>Error loading product data</div>
+
   const handleBuyNow = () => {
     onAdd(product, qty);
     setShowCart(true);
