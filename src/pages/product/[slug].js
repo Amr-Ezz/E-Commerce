@@ -8,8 +8,8 @@ import {
   AiOutlineStar,
 } from "react-icons/ai";
 import { useStateContext } from "../../../context/StateContext";
-const productDetails = ({ product, products }) => {
-  if (!product || !products) return <div>"Error loading product data"</div>
+const ProductDetails = ({ product, products }) => {
+  if (!product || !products) return <div>Error loading product data</div>
   const { image, name, details, price } = product;
   const [index, setIndex] = useState(0);
   const { decQty, inQty, qty, onAdd, setShowCart } = useStateContext();
@@ -140,4 +140,4 @@ export const getStaticProps = async ({ params: { slug } }) => {
   }
 };
 
-export default productDetails;
+export default ProductDetails;
